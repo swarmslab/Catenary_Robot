@@ -1,0 +1,6 @@
+[submodule "Catenary_robot_MATLAB"]
+	path = Catenary_robot_MATLAB
+	url = https://github.com/diegosdantonio/Catenary_robot_MATLAB
+[submodule "crazyflie_ros"]
+	path = crazyflie_ros
+	url = https://github.com/diegosdantonio/crazyflie_ros
